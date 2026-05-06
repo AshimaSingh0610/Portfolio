@@ -1,22 +1,4 @@
-// export const projects = [
-
-//     {
-//         id:1,
-//         title:'',
-//         description:'',
-//         image:'',
-//         category:'',
-//         technologies:['React','Node.js','MongoDB','Stripe'],
-//         metrics:'',
-//         demoUrl:'',
-//         githubUrl:''
-//     },
-
-// ];
-
-
 export const projects = [
-
     {
         id: 1,
         title: 'AI-Powered Course Builder',
@@ -28,7 +10,6 @@ export const projects = [
         demoUrl: 'https://your-demo-link.com',
         githubUrl: 'https://github.com/AshimaSingh0610/AI-Course-Crafter-N-Generator'
     },
-
     {
         id: 2,
         title: 'Email/SMS Spam Classifier',
@@ -40,7 +21,6 @@ export const projects = [
         demoUrl: 'https://your-demo-link.com',
         githubUrl: 'https://github.com/AshimaSingh0610/email-sms-spam-classifier'
     }
-
 ];
 
 export const categories = ['All' , 'WebApps' , 'UI Components' , 'Full Stack'];
